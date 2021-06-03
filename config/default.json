@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Aditya:Aditya123@cluster0.awsbj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "shoppingList_myJWTSecret"
+}
